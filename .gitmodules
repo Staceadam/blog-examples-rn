@@ -1,0 +1,12 @@
+[submodule "cicd"]
+	path = cicd
+	url = https://github.com/Staceadam/blog-examples-rn-cicd
+[submodule "forms"]
+	path = forms
+	url = https://github.com/Staceadam/blog-examples-rn-forms
+[submodule "navigation"]
+	path = navigation
+	url = https://github.com/Staceadam/blog-examples-rn-navigation
+[submodule "testing"]
+	path = testing
+	url = https://github.com/Staceadam/blog-examples-rn-testing

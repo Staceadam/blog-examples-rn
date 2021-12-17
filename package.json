@@ -1,0 +1,15 @@
+{
+    "name": "react-native",
+    "version": "1.0.0",
+    "description": "mono repo for react native blog examples",
+    "repository": "https://github.com/Staceadam/blog-examples.git",
+    "author": "Staceadam@gmail.com",
+    "license": "MIT",
+    "private": true,
+    "workspaces": [
+        "cicd",
+        "forms",
+        "navigation",
+        "testing"
+    ]
+}
